@@ -1,3 +1,4 @@
 # Louka Octave
 ## Week 1
-  * les: 4u
+  * totaal: 4u
+   * les: 4u
