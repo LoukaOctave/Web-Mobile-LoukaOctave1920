@@ -4,5 +4,7 @@
     * les: 4u
     * thuis: 2u
 ## Week 2
-  * totaal: 4u
+  * totaal: 5u
     * les: 4u
+    * thuis: 1u
+      * https://www.w3schools.com/php/exercise.asp
