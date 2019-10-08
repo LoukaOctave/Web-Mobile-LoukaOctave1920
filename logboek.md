@@ -8,3 +8,5 @@
     * les: 4u
     * thuis: 1u
       * https://www.w3schools.com/php/exercise.asp
+
+# Totaal: 11u
