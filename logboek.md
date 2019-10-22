@@ -8,5 +8,11 @@
     * les: 4u
     * thuis: 1u
       * https://www.w3schools.com/php/exercise.asp
+## Week 3
+  * totaal: 4u
+    * les: 4u
+## Week 3
+  * totaal: 4u
+    * les: 4u
 
-# Totaal: 11u
+# Totaal: 19u
