@@ -11,7 +11,7 @@
 ## Week 3
   * totaal: 4u
     * les: 4u
-## Week 3
+## Week 4
   * totaal: 4u
     * les: 4u
 
