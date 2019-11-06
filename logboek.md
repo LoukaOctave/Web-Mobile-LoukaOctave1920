@@ -14,5 +14,11 @@
 ## Week 4
   * totaal: 4u
     * les: 4u
+## Week 5
+  * totaal: 4u
+    * les: 4u
+## Week 6
+  * totaal: 4u
+    * les: 4u
 
-# Totaal: 19u
+# Totaal: 27u
