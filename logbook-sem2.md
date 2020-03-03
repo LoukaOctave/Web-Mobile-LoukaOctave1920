@@ -8,6 +8,11 @@
   * totaal: 4u
     * les: 4u --> Firebase web codelab
     * thuis: 0u
+    
+## Week 3
+  * totaal: 3u
+    * les: 3u --> Firebase web codelab afgerond
+    * thuis: 0u
 
-# Totaal: 8u
+# Totaal: 12u
 
