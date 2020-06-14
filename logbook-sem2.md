@@ -13,6 +13,14 @@
   * totaal: 3u
     * les: 3u --> Firebase web codelab afgerond
     * thuis: 0u
+  
+## Week 17
+  * totaal: 7u
+    * thuis: 7u
+     * don. 11 juni: 2u --> Cordvoa/Framework7 project gemaakt
+     * vri. 12 juni: 1u --> framework7 calendar begonnnen implementeren
+     * zat. 13 juni: 1u --> framework7 pages begonnnen implementeren
+     * zon. 14 juni: 3u --> framework7 pages/tabs/views laten werken
 
-# Totaal: 12u
+# Totaal: 19u
 
